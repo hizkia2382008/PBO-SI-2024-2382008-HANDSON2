@@ -32,7 +32,7 @@ public class SwitchStatement {
                 break;
             default:
                 System.out.println("Masukkan Nomor hanya antara 1-7!!");
-                System. exit(0);
+                System.exit(0);
         }
         System.out.println("Nama hari: " + namaHari);
     }
